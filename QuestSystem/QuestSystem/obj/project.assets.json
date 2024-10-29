@@ -4552,11 +4552,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\source\\repos\\Quest\\QuestSystem\\QuestSystem\\QuestSystem.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Source\\Repos\\QuestSystem\\QuestSystem\\QuestSystem\\QuestSystem.csproj",
       "projectName": "QuestSystem",
-      "projectPath": "C:\\Users\\admin\\source\\repos\\Quest\\QuestSystem\\QuestSystem\\QuestSystem.csproj",
+      "projectPath": "C:\\Users\\admin\\Source\\Repos\\QuestSystem\\QuestSystem\\QuestSystem\\QuestSystem.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\source\\repos\\Quest\\QuestSystem\\QuestSystem\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Source\\Repos\\QuestSystem\\QuestSystem\\QuestSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
