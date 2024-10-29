@@ -1,0 +1,6 @@
+@QuestSystem_HostAddress = http://localhost:5063
+
+GET {{QuestSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
